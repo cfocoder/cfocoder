@@ -4,42 +4,41 @@
 
 ## Hi there, I'm Héctor Sánchez 👋
 
-I currently work as a **Senior Financial Analyst** and **Analytics Engineer**, building data, reporting, and automation systems that help finance and business teams make better decisions.
+I work at the intersection of **finance, data, and automation**.
 
-My background started in **accounting, audit, and corporate finance**, and over the years I evolved toward **business intelligence, analytics engineering, and data automation**. Today, most of my work lives in the intersection of **finance, data, and technology**.
+My background started in **accounting, audit, and corporate finance**, and over time evolved into **analytics engineering, business intelligence, and decision systems**. Today I focus on building data workflows that help finance and business teams move faster and think more clearly.
 
-- 📊 I enjoy turning complex business data into clear, decision-ready reporting systems.
-- 🐍 I build automation and analytics workflows with **Python** and **SQL**.
-- 📈 I work extensively with **Power BI**, **Microsoft Fabric**, **Snowflake**, and modern BI/data tooling.
-- 🤝 One of my strongest skills is acting as a bridge between **finance teams, operations, and technical teams**.
-- 🧠 I'm especially interested in **finance analytics, automation, business intelligence, data science, and AI applied to real business problems**.
+### What I do
 
-### Languages, tools, and platforms
+- Build analytics systems for finance teams
+- Automate reporting workflows with **Python** and **SQL**
+- Create dashboards and decision-ready models with **Power BI** and **Microsoft Fabric**
+- Translate between business needs and technical implementation
+- Turn complex enterprise data into useful operational and financial insight
 
-- **Languages:** Python, SQL, DAX
-- **Data & Analytics:** Power BI, Microsoft Fabric, Snowflake, DuckDB, Pandas, NumPy, Sigma, Databricks, Spark
-- **Business / Finance:** FP&A, budgeting, forecasting, executive reporting, spend analytics
-- **Cloud & Ecosystem:** Azure, Jupyter, Power Apps, Dataverse
+### Core tools
 
-### Themes that define my work
+`Python` `SQL` `Power BI` `Microsoft Fabric` `Snowflake` `DuckDB` `Pandas` `NumPy` `DAX` `Azure`
 
-- Building analytics systems for finance teams
-- Automating executive and operational reporting
-- Designing decision-ready dashboards and data models
-- Translating technical complexity into business clarity
-- Connecting finance, data, and engineering at enterprise scale
+### Focus areas
 
-### A few things I’ve worked on throughout my career
+- Finance analytics and FP&A
+- Reporting automation
+- Business intelligence
+- Data modeling and decision systems
+- Data science and AI applied to business problems
 
-- Automated revenue and expense reporting that reduced reporting cycles from days to hours
-- Built data pipelines and reporting models for enterprise finance organizations
-- Developed vendor normalization and spend analysis workflows for cleaner decision-making
-- Created dashboards and reporting solutions for FP&A, compliance, and operations teams
+### A few things I’ve worked on
+
+- Automated revenue and expense reporting for enterprise finance organizations
+- Built data pipelines and reporting layers that reduced reporting cycles from days to hours
+- Developed vendor normalization and spend analytics solutions for better decision-making
+- Created dashboards for FP&A, compliance, and operational teams
 - Worked across companies such as **KPMG, Motorola, ON Semiconductor, Flex, HP/HPE, Micro Focus / OpenText, and Weave**
 
-### Current focus
+### Current direction
 
-Right now I’m focused on improving **finance analytics workflows**, **automation**, and **decision systems** using modern data tools.
+Right now I’m focused on improving **finance analytics workflows**, **automation**, and **decision systems** using modern data tooling.
 
 ### Connect
 
