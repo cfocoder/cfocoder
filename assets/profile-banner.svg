@@ -1,0 +1,83 @@
+<svg width="1600" height="600" viewBox="0 0 1600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="970" y1="110" x2="1450" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06B6D4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#60A5FA" stop-opacity="0.25"/>
+    </linearGradient>
+    <filter id="blurGlow" x="0" y="0" width="1600" height="600" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="600" fill="url(#bg)"/>
+
+  <g opacity="0.18">
+    <path d="M0 120H1600" stroke="#94A3B8" stroke-width="1"/>
+    <path d="M0 220H1600" stroke="#94A3B8" stroke-width="1"/>
+    <path d="M0 320H1600" stroke="#94A3B8" stroke-width="1"/>
+    <path d="M0 420H1600" stroke="#94A3B8" stroke-width="1"/>
+    <path d="M250 0V600" stroke="#94A3B8" stroke-width="1"/>
+    <path d="M550 0V600" stroke="#94A3B8" stroke-width="1"/>
+    <path d="M850 0V600" stroke="#94A3B8" stroke-width="1"/>
+    <path d="M1150 0V600" stroke="#94A3B8" stroke-width="1"/>
+    <path d="M1450 0V600" stroke="#94A3B8" stroke-width="1"/>
+  </g>
+
+  <g filter="url(#blurGlow)" opacity="0.28">
+    <circle cx="1220" cy="230" r="120" fill="#06B6D4"/>
+    <circle cx="1350" cy="340" r="140" fill="#2563EB"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="930" y="120" width="140" height="62" rx="16" fill="#0B1220" stroke="#1E293B"/>
+    <text x="958" y="145" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">DATA</text>
+    <text x="958" y="166" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Sources</text>
+
+    <rect x="1110" y="200" width="150" height="62" rx="16" fill="#0B1220" stroke="#1E293B"/>
+    <text x="1138" y="225" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">PIPELINE</text>
+    <text x="1138" y="246" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Transform</text>
+
+    <rect x="1300" y="290" width="160" height="62" rx="16" fill="#0B1220" stroke="#1E293B"/>
+    <text x="1328" y="315" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">INSIGHT</text>
+    <text x="1328" y="336" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Decision-ready</text>
+
+    <path d="M1070 151C1100 151 1085 231 1110 231" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1260 231C1290 231 1274 321 1300 321" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+
+    <circle cx="1070" cy="151" r="7" fill="#38BDF8"/>
+    <circle cx="1110" cy="231" r="7" fill="#38BDF8"/>
+    <circle cx="1260" cy="231" r="7" fill="#38BDF8"/>
+    <circle cx="1300" cy="321" r="7" fill="#38BDF8"/>
+  </g>
+
+  <g opacity="0.95">
+    <rect x="1040" y="390" width="350" height="110" rx="20" fill="#0B1220" stroke="#1E293B"/>
+    <path d="M1080 465L1130 430L1180 445L1235 410L1290 422L1345 395" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="1080" cy="465" r="5" fill="#38BDF8"/>
+    <circle cx="1130" cy="430" r="5" fill="#38BDF8"/>
+    <circle cx="1180" cy="445" r="5" fill="#38BDF8"/>
+    <circle cx="1235" cy="410" r="5" fill="#38BDF8"/>
+    <circle cx="1290" cy="422" r="5" fill="#38BDF8"/>
+    <circle cx="1345" cy="395" r="5" fill="#38BDF8"/>
+    <text x="1080" y="430" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Analytics • Reporting • Automation</text>
+  </g>
+
+  <g>
+    <text x="90" y="170" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Héctor Sánchez</text>
+    <text x="90" y="220" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="600">Senior Financial Analyst | Analytics Engineer</text>
+    <text x="90" y="285" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="400">Bridging finance, data, and decision-making</text>
+
+    <rect x="90" y="340" width="640" height="52" rx="26" fill="#0B1220" stroke="#1E293B"/>
+    <text x="120" y="373" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22">Python · SQL · Power BI · Microsoft Fabric · FP&amp;A</text>
+
+    <text x="90" y="450" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20">Finance + Data + Automation at enterprise scale</text>
+  </g>
+</svg>
